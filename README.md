@@ -60,7 +60,6 @@
 
 ## Hobbies
 
-- :ch: Sports: Kungfu, Suai Jiao
-- :jp: Judo
+-  Sports: Kungfu, Suai Jiao, Judo
 - :us: Series
 - :gear: macOS, Windows, Linux
