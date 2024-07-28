@@ -15,7 +15,7 @@
 
 ## I'am Dmytro Reznichenko
 
-- :hamster: Golang Software Engineer 
+-  Golang Software Engineer 
 - :mortar_board: Studied at [KPI](https://kpi.ua) on [TEF](https://kpi.ua/en/tef-science) faculty
 
 ## Skills
