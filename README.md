@@ -5,7 +5,7 @@
   <a href="https://t.me/dmitrorezn">
     <img src="https://img.shields.io/static/v1?label=Me%20on&message=Telegram&color=29a1d4&logo=telegram" alt="Telegram Link"/>
   </a>
-  <a href="https://twitter.com/troshme">
+  <a href="https://twitter.com/trohsme">
     <img src="https://img.shields.io/static/v1?label=Me%20on&message=Twitter&color=1d9bf0&logo=twitter" alt="Twitter Link"/>
   </a>
   <a href="https://www.linkedin.com/in/dmitrorezn">
