@@ -13,10 +13,10 @@
   </a>
  </div>
 
-## I'am Dmytro Reznichenko
+## I'am Dmytro Reznichenko 🇺🇦🇺🇦🇺🇦
 
 -  Golang Software Engineer 
-- :mortar_board: Studied at [KPI](https://kpi.ua) on [TEF](https://kpi.ua/en/tef-science) faculty
+- :mortar_board: Studied at [KPI](https://kpi.ua) on [TEF](https://kpi.ua/en/tef-science) faculty, Kyiv 🇺🇦
 
 ## Skills
 
@@ -61,7 +61,6 @@
 ## Hobbies
 
 -  Sports: Kung Fu, Suai Jiao, Judo
-- :us: Series
 - :gear: macOS, Windows, Linux
 
 
