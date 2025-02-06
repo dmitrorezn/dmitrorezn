@@ -11,6 +11,9 @@
   <a href="https://www.linkedin.com/in/dmytro-reznichenko-0959b21b1/">
     <img src="https://img.shields.io/static/v1?label=Me%20on&message=LinkedIn&color=0a66c2&logo=linkedin" alt="LinkedIn Link"/>
   </a>
+<a href="https://bsky.app/profile/dmytrorezn.bsky.social">
+    <img src="https://img.shields.io/static/v1?label=Me%20on&message=Bluesky&color=1d9bf0&logo=bluesky" alt="Bluesky Link"/>
+  </a>
  </div>
 
 ## I'am Dmytro Reznichenko 🇺🇦🇺🇦🇺🇦
